@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-cypress",
+  "version": "1.0.0",
+  "description": "'Proyecto final Tecnicas Automatizacion Modernas ",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "keywords": [
+    "ucreativa",
+    "cypress",
+    "QA"
+  ],
+  "author": "Jose Ignacio Acuna Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
